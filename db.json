@@ -1,5 +1,42 @@
 {
-    "trainpassings": [],
+    "trainpassings": [
+        {
+            "id": 1,
+            "title": "(TEST VARSLINGSSYSTEM) Togpassering Raumabanen",
+            "description": "Tittel:\n Test av automatisk varsling om togpassering ved Raumabanen.\nHendelse: Togpassering(TEST) \nDetaljer: \nTeststrekningen for digital rasvarsling har detektert en togpassering ved km 422 på Raumabanen. Registreringen er hovedsakelig ment for systemtesting.",
+            "timestamp": "2019-11-26T12:37:42+00:00",
+            "tidspunkt": "12:37:42 26-11-2019",
+            "bane": "Raumabanen",
+            "strekning": "Verma-Marstein",
+            "km": 422,
+            "lokasjon": "0800-00004",
+            "varsling": "Nei"
+        },
+        {
+            "id": 2,
+            "title": "(TEST VARSLINGSSYSTEM) Togpassering Raumabanen",
+            "description": "Tittel:\n Test av automatisk varsling om togpassering ved Raumabanen.\nHendelse: Togpassering(TEST) \nDetaljer: \nTeststrekningen for digital rasvarsling har detektert en togpassering ved km 422 på Raumabanen. Registreringen er hovedsakelig ment for systemtesting.",
+            "timestamp": "2019-11-26T16:37:42+00:00",
+            "tidspunkt": "16:37:42 26-11-2019",
+            "bane": "Raumabanen",
+            "strekning": "Verma-Marstein",
+            "km": 422,
+            "lokasjon": "0800-00004",
+            "varsling": "Nei"
+        },
+        {
+            "id": 3,
+            "title": "(TEST VARSLINGSSYSTEM) Togpassering Raumabanen",
+            "description": "Tittel:\n Test av automatisk varsling om togpassering ved Raumabanen.\nHendelse: Togpassering(TEST) \nDetaljer: \nTeststrekningen for digital rasvarsling har detektert en togpassering ved km 422 på Raumabanen. Registreringen er hovedsakelig ment for systemtesting.",
+            "timestamp": "2019-11-27T09:37:42+00:00",
+            "tidspunkt": "09:37:42 27-11-2019",
+            "bane": "Raumabanen",
+            "strekning": "Verma-Marstein",
+            "km": 422,
+            "lokasjon": "0800-00004",
+            "varsling": "Nei"
+        }
+    ],
     "rockslides": [
         {
             "id": 1,
