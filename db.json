@@ -47,7 +47,20 @@
             "km": 422,
             "lokasjon": "0800-00004",
             "varsling": "Nei"
+        },
+        {
+            "id": 5,
+            "title": "(TEST VARSLINGSSYSTEM) Togpassering Raumabanen",
+            "description": "Tittel:\n Test av automatisk varsling om togpassering ved Raumabanen.\nHendelse: Togpassering(TEST) \nDetaljer: \nTeststrekningen for digital rasvarsling har detektert en togpassering ved km 422 på Raumabanen. Registreringen er hovedsakelig ment for systemtesting. DETTE ER SISTE HENDELSE I KØEN",
+            "timestamp": "2019-12-13T09:37:42+00:00",
+            "tidspunkt": "09:37:42 13-12-2019",
+            "bane": "Raumabanen",
+            "strekning": "Verma-Marstein",
+            "km": 422,
+            "lokasjon": "0800-00004",
+            "varsling": "Nei"
         }
+
     ],
     "rockslides": [
         {
