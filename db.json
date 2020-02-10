@@ -63,18 +63,6 @@
 
     ],
     "rockslides": [
-        {
-            "id": 1,
-            "title": "(TEST VARSLINGSSYSTEM) Rasvarsling Raumabanen",
-            "description": "Tittel: \nTest av automatisk varsling om ras ved Raumabanen. \nHendelse: Ras(TEST) \nDetaljer: Mulig steinsprang detektert på Raumabanen. Det anbefales halv sikthastighet for neste togpassering mellom km 421,9 og 422,2. Dette er et automatisk generert varsel fra en teststrekning for digital rasvarsling, og feil kan forekomme. Varslingsystemet detekterer vibrasjoner i sporet generert av steinsprang. Vi kan foreløpig ikke skille mellom stein som lander i sporet og stein som stopper i linjegrøfta. Det er mulig at dette steinspranget derfor ikke utgjør noen fare for neste togpassering.",
-            "timestamp": "2019-11-26T12:37:42+00:00",
-            "tidspunkt": "12:37:42 26-11-2019",
-            "bane": "Raumabanen",
-            "strekning": "Verma-Marstein",
-            "km": 422,
-            "lokasjon": "0800-00004",
-            "varsling": "Togleder"
-        }
     ],
     "profile": {
         "name": "typicode"
